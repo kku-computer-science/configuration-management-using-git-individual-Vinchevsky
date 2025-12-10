@@ -5,4 +5,4 @@ Author: Narawit Siripol\
 Section 2\
 I am responsible for: Input & Menu + fix conflict.
 
-Semester 2/2568\
+Semester 2/2568
